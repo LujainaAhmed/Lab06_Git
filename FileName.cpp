@@ -8,7 +8,7 @@ int main() {
 	int digit;
 	int digitCount = 0;
 
-	cout << "enter emergency code: ";
+	cout << "enter positive emergency code: ";
 	cin >> code;
 
 	originalCode = code;
